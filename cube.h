@@ -27,7 +27,9 @@ public:
 protected:
 
 private:
-
+int x_size;
+int y_size;
+int z_size;
 };
 
 #endif // _CUBE_H_
